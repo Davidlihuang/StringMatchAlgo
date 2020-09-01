@@ -3,9 +3,9 @@
 #define	STRINGMATCHING_H_
 #include <iostream>
 
-//BF¥Æ∆•≈‰À„∑®
+//BF string match algo
 
-//KMP¥Æ∆•≈‰À„∑®
+//KMP string match algo
 
 #endif // !STRINGMATCHING_H_
 
